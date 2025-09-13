@@ -1615,6 +1615,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 @media (min-width: 1024px) {
 
+  .article-title {
+    padding-top: 60px;
+  }
+
   /**
    * CUSTOM PROPERTY
    */
