@@ -855,6 +855,7 @@ main {
   padding: 5px 10px;
   border-radius: 8px;
   font-size: var(--fs-7);
+  word-wrap: break-word;
 }
 
 .skill-category-content .skill-box {
