@@ -1850,6 +1850,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .skills-categories {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 10px;
   margin-bottom: 20px;
 }
